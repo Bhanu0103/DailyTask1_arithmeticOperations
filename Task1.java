@@ -1,6 +1,6 @@
 package basic;
 import java.util.Scanner;
-public class Task1 {
+public class arithmeticOperations {
 	    public static void main(String[] args) {
 	      Scanner sc = new Scanner(System.in);
 	      System.out.println("enter inputs here");
@@ -53,4 +53,5 @@ public class Task1 {
 	    System.out.println("want to do arithmetic operation again ? then enter inputs otherwise leave :)");
 	  }
 	}
+
 
