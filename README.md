@@ -1,0 +1,2 @@
+# DailyTask1_arithmeticOperations
+Arithmetic Operations Programming using Java
